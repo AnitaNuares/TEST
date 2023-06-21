@@ -19,7 +19,7 @@
     perspective: 1000px;
   }
   
-  .memory-card {
+  .game-card {
     width: calc(25% - 10px);
     height: calc(33.333% - 10px);
     margin: 5px;
@@ -29,12 +29,12 @@
     transition: transform .4s;
   }
   
-  .memory-card:active {
+  .game-card:active {
     transform: scale(0.97);
     transition: transform .1s;
   }
   
-  .memory-card.flip {
+  .game-card.flip {
     transform: rotateY(180deg);
   }
   
@@ -44,7 +44,7 @@
     height: 100%;
     padding: 5px;
     position: absolute;
-    border-radius: 5px;
+    border-radius: 10px;
     background: #974fd9;
     backface-visibility: hidden;
   }

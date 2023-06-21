@@ -1,4 +1,4 @@
-const cards = document.querySelectorAll('.memory-card');
+const cards = document.querySelectorAll('.game-card');
 
 let hasFlippedCard = false;
 let lockBoard = false;
