@@ -24,7 +24,7 @@
     height: calc(33.333% - 10px);
     margin: 5px;
     position: relative;
-    border: 2px solid #663398;
+    border: 3px solid #663398;
     border-radius: 10px;
     transform: scale(1);
     transform-style: preserve-3d;
@@ -46,7 +46,7 @@
     height: 100%;
     padding: 5px;
     position: absolute;
-    border-radius: 10px;
+    border-radius: 8px;
     background: #974fd9;
     backface-visibility: hidden;
   }
