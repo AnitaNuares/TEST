@@ -24,6 +24,8 @@
     height: calc(33.333% - 10px);
     margin: 5px;
     position: relative;
+    border: 2px solid #663398;
+    border-radius: 10px;
     transform: scale(1);
     transform-style: preserve-3d;
     transition: transform .4s;
