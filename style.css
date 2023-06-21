@@ -11,8 +11,8 @@
   }
   
   .gameboard {
-    width: 716px;
-    height: 716px;
+    width: 1200px;
+    height: 900px;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
@@ -20,7 +20,7 @@
   }
   
   .game-card {
-    width: calc(25% - 10px);
+    width: calc(16.67% - 10px);
     height: calc(33.333% - 10px);
     margin: 5px;
     position: relative;
