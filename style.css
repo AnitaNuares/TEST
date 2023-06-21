@@ -10,9 +10,9 @@
     background: #f29ef3;
   }
   
-  .memory-game {
-    width: 640px;
-    height: 640px;
+  .gameboard {
+    width: 800px;
+    height: 800px;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
