@@ -2,7 +2,8 @@ const cards = document.querySelectorAll('.game-card');
 
 let hasFlippedCard = false;
 let lockBoard = false;
-let firstCard, secondCard;
+let firstCard;
+let secondCard;
 
 function flipCard() {
   if (lockBoard) return;
