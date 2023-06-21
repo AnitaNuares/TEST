@@ -15,7 +15,7 @@
     height: 700px;
     margin: auto;
     display: flex;
-    position: center;
+    align-items: center;
     flex-wrap: wrap;
     perspective: 1000px;
   }
@@ -30,6 +30,7 @@
     transform: scale(1);
     transform-style: preserve-3d;
     transition: transform .4s;
+    cursor: pointer;
   }
   
   .game-card:active {
