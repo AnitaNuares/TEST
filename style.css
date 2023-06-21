@@ -15,13 +15,14 @@
     height: 600px;
     margin: auto;
     display: flex;
+    position: center;
     flex-wrap: wrap;
     perspective: 1000px;
   }
   
   .game-card {
-    width: calc(15% - 10px);
-    height: calc(33.3% - 10px);
+    width: calc(16.667% - 10px);
+    height: calc(33.333% - 10px);
     margin: 5px;
     position: relative;
     border: 3px solid #663398;
