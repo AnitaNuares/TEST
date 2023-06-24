@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "BIGSHOT";
-  src: url("../fonts/big-shot.ttf");
+  font-family: "BIG SHOT"; 
+  src: url("fonts/big-shot.ttf");
 }
 
 * {
@@ -10,8 +10,6 @@
   }
   
   h1 {
-    font-family: "BIGSHOT";
-    src: url("/fonts/big-shot.ttf");
     position: absolute;
     margin: 56px;
     padding: auto;
@@ -21,7 +19,7 @@
     align-items: center;     
     text-align: center;  
     font-size: 46px;
-    color: red;
+    color: grey;
     } 
  
   body {
