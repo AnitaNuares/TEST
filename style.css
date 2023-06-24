@@ -1,7 +1,8 @@
 @font-face {
   font-family: "BIGSHOT";
-  src: url("fonts/big-shot.ttf);
-}
+  src: url("..fonts/big-shot.ttf");
+  color: #fff;
+  }
 
 * {
     padding: 0;
@@ -19,8 +20,7 @@
     align-items: center;     
     text-align: center;  
     font-size: 46px;
-    color: #fff;
-   } 
+    } 
  
   body {
     height: 100vh;
