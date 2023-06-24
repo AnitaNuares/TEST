@@ -11,6 +11,7 @@
   
   h1 {
     font-family: "BIGSHOT";
+    src: url("/fonts/big-shot.ttf");
     position: absolute;
     margin: 56px;
     padding: auto;
