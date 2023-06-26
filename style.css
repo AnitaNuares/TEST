@@ -40,7 +40,7 @@
   
   .container {
     font-family: "Better VCR"; 
-    margin: 56;
+    margin: 56 20;
     padding: auto;
     text-align: left;
     width: 130px;
@@ -52,6 +52,7 @@
     font-weight: normal;
     color: #663398;
     text-shadow: 1px 1px #fff;
+    background: red;
   }
 
   .h2 {
