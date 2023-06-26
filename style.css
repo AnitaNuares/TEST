@@ -64,6 +64,10 @@
     text-shadow: 1px 1px #fff;
   }
   
+  .p1 .p2 {
+    margin-bottom: 35px;
+  }
+  
   .gameboard {
     width: 1050px;
     height: 700px;
