@@ -38,6 +38,16 @@
     color: #fff;
   }
   
+  .h2 {
+    font-family: "BIG SHOT"; 
+    margin-bottom: 15px;
+    padding: auto;
+    text-align: center;  
+    font-size: 16px;
+    color: #fff;
+    text-shadow: 3px 3px #663399;
+    }  
+
   .container {
     font-family: "Better VCR"; 
     margin: 56 20;
@@ -47,26 +57,14 @@
     line-height: 1.4;
     position: absolute;
     top: 60px;
-    right: 50px;
+    right: 20px;
     font-size: 16px;
     font-weight: normal;
     color: #663398;
     text-shadow: 1px 1px #fff;
-    background: red;
+    background: rgb(221, 255, 0);
   }
-
-  .h2 {
-    font-family: "BIG SHOT"; 
-    position: absolute;
-    padding: auto;
-    justify-content: center;     
-    align-items: center;     
-    text-align: center;  
-    font-size: 16px;
-    color: #fff;
-    text-shadow: 3px 3px #663399;
-    } 
-
+  
   .gameboard {
     width: 1050px;
     height: 700px;
