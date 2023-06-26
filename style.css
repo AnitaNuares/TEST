@@ -48,10 +48,10 @@
     position: absolute;
     top: 60px;
     right: 30px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: normal;
     color: #663398;
-    text-shadow: 2px 2px #fff;
+    text-shadow: 1px 1px #fff;
   }
 
   .h2 {
