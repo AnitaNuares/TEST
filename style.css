@@ -39,11 +39,11 @@
   }
   
   .h2 {
-    font-family: "BIG SHOT"; 
+    font-family: "BIG SHOT";
     margin-bottom: 15px;
     padding: auto;
     text-align: center;  
-    font-size: 16px;
+    font-size: 20px;
     color: #fff;
     text-shadow: 3px 3px #663399;
     }  
@@ -53,16 +53,15 @@
     margin: 56 20;
     padding: auto;
     text-align: left;
-    width: 146px;
+    width: 150px;
     line-height: 1.4;
     position: absolute;
     top: 60px;
-    right: 20px;
+    right: 40px;
     font-size: 16px;
     font-weight: normal;
     color: #663398;
     text-shadow: 1px 1px #fff;
-    background: rgb(221, 255, 0);
   }
   
   .gameboard {
